@@ -21,7 +21,7 @@ getPort().then(function (p) {
       console.log(JSON.parse(data))               // parse the data,
     })
     cb(null, req.url);                            // or whatever else.
-  }).resume());
+  }));
 
 
 
