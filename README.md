@@ -1,6 +1,6 @@
 # stream with http
 
-receive and send message with an underlying http transport.
+stream to receive and send messages with an underlying http transport.
 
 # Install
 
